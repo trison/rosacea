@@ -1,0 +1,13 @@
+body{
+	color: #ececec;
+	background-color: black;	
+	font-family: helvetica;
+}
+.container{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.container h1{
+	font-size: 80px;
+}
